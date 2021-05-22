@@ -48,7 +48,7 @@ export function MissionPage({ page, ...rest }) {
         </Title>
 
         <Description>
-          Humbly serving our Korean and American community in Columbus, Georgia since 1993.
+          Humbly serving our Korean and American community in Columbus, Georgia since 1999.
         </Description>
 
         

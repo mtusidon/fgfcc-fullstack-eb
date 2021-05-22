@@ -5,11 +5,6 @@ export const photos = [
         height: 3
     },
     {
-        src: "https://i.imgur.com/53vLSSG.jpg",
-        width: 4,
-        height: 3
-    },
-    {
         src: "https://i.imgur.com/g7NLaKG.jpg",
         width: 4,
         height: 3
